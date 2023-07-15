@@ -1,15 +1,16 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: Ergosaurs
+description: The first dinos to roam the Ergo platform! 🦕
+image: https://gateway.ipfs.io/ipfs/bafybeiaxoidlllnqyttxxegvbo4cwxomz76oamdlv3gvd3dwpjmjabmgjq
 mintAddresses:
-  - 
+  - 9hS38ddo6GmP31xvCDkBpWCcD1saNgszsmK4FNgEdieGb27PUmi
+  - 9ezLzcm8hNnpPtneqmhs429JAi6RcxvYjiNTUiGQbVE9kGj5AWQ
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/ergosaurs
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/JctZPveAb8
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://ergosaurs.io/
     icon: fa-solid fa-globe fa-fw
