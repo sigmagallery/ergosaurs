@@ -4,4 +4,4 @@ collections:
   image: https://gateway.ipfs.io/ipfs/bafybeiextdig43hncc5xn2s5lxa34b5x5cqtineyb2sitgxog64bus756a
 - label: Dino Eggs
   data: dinoeggs.yml
-  image: http://ipfs.io/ipfs/QmUaYm4qKbZaNxcb73K3kGhLqne3QT429NJCXMn8gAWWxm
+  image: https://ipfs.io/ipfs/QmUaYm4qKbZaNxcb73K3kGhLqne3QT429NJCXMn8gAWWxm
