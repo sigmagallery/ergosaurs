@@ -1,8 +1,8 @@
 collections:
 - label: Ergosaurs
   data: ergosaurs.yml
-  image: https://gateway.ipfs.io/ipfs/bafybeiextdig43hncc5xn2s5lxa34b5x5cqtineyb2sitgxog64bus756a
+  image: https://img1.sigma.gallery/ergosaurs/ergosaurs/61761fe6f7a8e6b6dc27b8d4ff3cf6fb82ccc6df2ea380f00ff3626bc4c4e47d.webp
   description: "The first dinos to roam the Ergo platform! 🦕"
 - label: Dino Eggs
   data: dinoeggs.yml
-  image: https://ipfs.io/ipfs/QmUaYm4qKbZaNxcb73K3kGhLqne3QT429NJCXMn8gAWWxm
+  image: https://img1.sigma.gallery/ergosaurs/dino-eggs/0278965c7299579c69459b3a056f6f7eec0b20017a5a4a56a566ef5613689ee3.webp
